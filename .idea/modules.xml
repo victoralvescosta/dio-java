@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections-api/Collections-api.iml" filepath="$PROJECT_DIR$/Collections-api/Collections-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estudos-java.iml" filepath="$PROJECT_DIR$/Estudos-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicio-POO/Exercicio-POO.iml" filepath="$PROJECT_DIR$/Exercicio-POO/Exercicio-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections-api/list/OperacoesBasico/OperacoesBasico.iml" filepath="$PROJECT_DIR$/Collections-api/list/OperacoesBasico/OperacoesBasico.iml" />
     </modules>
   </component>
 </project>

@@ -25,4 +25,8 @@ public class Item {
         return quantidade;
     }
 
+    @Override
+    public String toString() {
+        return nome + preco + quantidade;
+    }
 }

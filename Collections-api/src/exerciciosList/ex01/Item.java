@@ -1,4 +1,4 @@
-package list.exerciciosList.ex01;
+package exerciciosList.ex01;
 
 public class Item {
 
